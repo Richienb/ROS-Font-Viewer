@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<iasettings>
+  <projectproperties>
+    <manufacturer>richi</manufacturer>
+    <productname>ROS Font Viewer</productname>
+    <productversion>1.0.0.0</productversion>
+    <productcode>{b7d011de-60d9-4042-b575-dcfd626f2c9a}</productcode>
+    <upgradecode>{acba0715-a257-47ce-9b5f-2ceb4e97b40b}</upgradecode>
+    <language>0</language>
+    <languagename>English</languagename>
+  </projectproperties>
+  <summary>
+    <title>ROS Font Viewer</title>
+    <subject>ROS Font Viewer</subject>
+    <author>richi</author>
+    <summarycomments>ROS Font Viewer</summarycomments>
+    <revisioncode>{7ac5267a-63aa-4713-b49d-2b39bdbb6aa1}</revisioncode>
+    <uacelevation>highestAvailable</uacelevation>
+  </summary>
+  <addremove>
+    <publishername>richi</publishername>
+    <contactname>richi</contactname>
+    <helplink>http://www.mywebsite.com</helplink>
+    <productupdatelink>http://www.mywebsite.com</productupdatelink>
+    <addremovecomments>All Rights Reserved</addremovecomments>
+    <iconfile />
+  </addremove>
+  <codegen>
+    <generateincludefiles>1</generateincludefiles>
+    <generatefeatures>0</generatefeatures>
+    <refreshscript>0</refreshscript>
+  </codegen>
+  <compilervariables>
+    <variables />
+  </compilervariables>
+  <build>
+    <buildtype>0</buildtype>
+    <buildasmsi>False</buildasmsi>
+    <cachesources>1</cachesources>
+  </build>
+  <targetfolders />
+  <files>
+    <filedetails filename="C:\Users\richi\Documents\GitHub\ROS-Font-Viewer\ROS Font Viewer\ROS Font Viewer\bin\Debug\ROS Font Viewer.exe" targetlocation="$TARGETDIR$" type="1" generatenativeimage="0" registerassembly="0" runinstallerclass="0" createshortcut="1" runprogram="1" installfilecommand="0" />
+  </files>
+  <dependencies>
+    <dependencydetails filename="C:\Users\richi\Documents\GitHub\ROS-Font-Viewer\ROS Font Viewer\packages\MaterialSkin.Net4.1.0.0\lib\net40\MaterialSkin.dll" targetlocation="$TARGETDIR$" generatenativeimage="0" registerassembly="0" runinstallerclass="0" createshortcut="0" runprogram="0" installfilecommand="0" />
+    <dependencydetails filename="C:\Program Files (x86)\Reference Assemblies\Microsoft\VBPowerPacks\v12.0\Microsoft.VisualBasic.PowerPacks.dll" targetlocation="$TARGETDIR$" generatenativeimage="0" registerassembly="0" runinstallerclass="0" createshortcut="0" runprogram="0" installfilecommand="0" />
+  </dependencies>
+  <registry />
+  <dialogtheme>
+    <themename>Official</themename>
+  </dialogtheme>
+  <authenticode>
+    <sign>0</sign>
+    <mode>0</mode>
+    <certificatefile />
+    <keyfile />
+    <pfxfile />
+    <productinfourl />
+    <authpassword />
+    <timestampurl />
+    <signall>0</signall>
+  </authenticode>
+  <compression>
+    <compressiontype>8</compressiontype>
+    <encrypt>0</encrypt>
+    <compressionpassword />
+  </compression>
+  <output>
+    <outputtype>0</outputtype>
+    <location />
+    <filename />
+    <calculatefilehash>0</calculatefilehash>
+    <refreshrevisioncode>1</refreshrevisioncode>
+  </output>
+</iasettings>
