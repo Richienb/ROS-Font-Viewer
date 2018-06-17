@@ -120,5 +120,17 @@
     </None>
     <None Include="packages.config" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bold.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\italic.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\strikethrough.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\underline.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
 </Project>

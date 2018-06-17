@@ -53,30 +53,6 @@ Namespace My
                 Return defaultInstance
             End Get
         End Property
-        
-        <Global.System.Configuration.UserScopedSettingAttribute(),  _
-         Global.System.Diagnostics.DebuggerNonUserCodeAttribute(),  _
-         Global.System.Configuration.DefaultSettingValueAttribute("250, 250, 250")>  _
-        Public Property BackgroundColour() As Global.System.Drawing.Color
-            Get
-                Return CType(Me("BackgroundColour"),Global.System.Drawing.Color)
-            End Get
-            Set
-                Me("BackgroundColour") = value
-            End Set
-        End Property
-        
-        <Global.System.Configuration.UserScopedSettingAttribute(),  _
-         Global.System.Diagnostics.DebuggerNonUserCodeAttribute(),  _
-         Global.System.Configuration.DefaultSettingValueAttribute("33, 33, 33")>  _
-        Public Property ForegrondColour() As Global.System.Drawing.Color
-            Get
-                Return CType(Me("ForegrondColour"),Global.System.Drawing.Color)
-            End Get
-            Set
-                Me("ForegrondColour") = value
-            End Set
-        End Property
     End Class
 End Namespace
 
